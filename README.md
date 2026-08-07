@@ -20,6 +20,7 @@
 | [0031-next-permutation](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -49,4 +50,9 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
