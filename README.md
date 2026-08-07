@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
