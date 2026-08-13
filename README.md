@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
