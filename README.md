@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
