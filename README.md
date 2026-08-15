@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
