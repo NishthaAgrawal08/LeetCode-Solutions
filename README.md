@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
