@@ -73,6 +73,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Ternary Search
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
