@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
