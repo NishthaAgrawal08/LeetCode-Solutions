@@ -52,11 +52,13 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Simulation
@@ -144,4 +146,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
