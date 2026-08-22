@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0414-third-maximum-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,6 +84,7 @@
 | [0018-4sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
