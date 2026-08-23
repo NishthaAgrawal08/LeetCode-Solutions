@@ -51,6 +51,7 @@
 | [0042-trapping-rain-water](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0541-reverse-string-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0541-reverse-string-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3692-majority-frequency-characters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
