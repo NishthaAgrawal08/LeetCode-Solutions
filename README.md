@@ -29,6 +29,7 @@
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3692-majority-frequency-characters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
 |  |
@@ -149,6 +151,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3692-majority-frequency-characters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Newton's Method
 |  |
