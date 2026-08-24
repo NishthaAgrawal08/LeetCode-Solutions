@@ -40,6 +40,7 @@
 | [0217-contains-duplicate](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -66,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -91,6 +93,7 @@
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -178,4 +181,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
