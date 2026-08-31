@@ -77,6 +77,7 @@
 | [0541-reverse-string-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3692-majority-frequency-characters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Greedy
 |  |
@@ -198,4 +199,5 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
