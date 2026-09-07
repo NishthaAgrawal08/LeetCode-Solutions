@@ -46,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -74,6 +75,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
