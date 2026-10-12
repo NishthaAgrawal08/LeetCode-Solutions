@@ -223,4 +223,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
