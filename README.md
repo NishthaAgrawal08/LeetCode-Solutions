@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0046-permutations) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishthaAgrawal08/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
